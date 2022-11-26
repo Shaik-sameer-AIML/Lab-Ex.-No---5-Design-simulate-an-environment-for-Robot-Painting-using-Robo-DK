@@ -274,6 +274,8 @@ END
  ![output](./painting%20lab%20exam.PNG)
 
  ## Result:
-    To simulate the painting environment for a serial manipluator is done successfully using robo DK software.
+ 
+ 
+ To simulate the painting environment for a serial manipluator is done successfully using robo DK software.
        
  
